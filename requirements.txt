@@ -1,0 +1,4 @@
+tkinter
+pathlib
+shutil
+ctypes
